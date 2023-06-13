@@ -6,13 +6,7 @@
       "password": "4444",
       "watchList": [],
       "favorites": []
-    },
-    {
-      "id": 2,
-      "username": "123",
-      "password": "321",
-      "watchList": [],
-      "favorites": []
-    } 
+    }
+   
   ]
 }
